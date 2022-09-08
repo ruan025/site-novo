@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    font-family: Verdana;
+    background-color: black;
+}
+
+.saas {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.saas>div {
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+
+.img {
+    margin: 0;
+    
+}
+
+.govbr {
+    margin-right: auto;
+}
